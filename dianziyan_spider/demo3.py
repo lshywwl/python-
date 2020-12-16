@@ -38,4 +38,4 @@ for name,row in data.iterrows():
     )
 
 Camera_map.add_child(incidents)
-Camera_map.save('Camera_map2.html')
+Camera_map.save('Camera_map.html')
