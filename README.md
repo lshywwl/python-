@@ -1,7 +1,7 @@
 ### heavy_traffic
 城市交通拥堵情况,用flask在网页上地图显示
 
-[](./pic/heavytraffic_map.png)
+[we](./pic/heavytraffic_map.png)
 
 ### [dianziyan_spider](./dianziyan_spider)
 - dianziyan_spider.py文件：爬虫读取北京交通电子眼地理数据，生成并存储在csv文件(dianziyan.csv)中  
