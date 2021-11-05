@@ -1,4 +1,4 @@
-### heavy_traffic
+### heavy_traffic(./Heavy_traffic)
 城市交通拥堵情况,用flask在网页上地图显示
 
 <img src="./pic/heavytraffic_map.png" width="50%" height=“50%”>
